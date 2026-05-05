@@ -2,11 +2,11 @@ University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)
 Year: 2025/2026
-Group: K66666
-Author: [Ваша Фамилия Имя Отчество]
+Group: U4125
+Author: Ganin Mikhail Aleksandrovich
 Lab: Lab2
-Date of create: [Дата начала]
-Date of finished: [Дата защиты]
+Date of create: 05.05.2026
+Date of finished: 05.05.2026
 
 # Лабораторная работа №2: Исследование Cloud Run
 
